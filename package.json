@@ -1,6 +1,6 @@
 {
-  "name": "passport-mixin",
-  "version": "0.1.24",
+  "name": "@foxone/passport-mixin",
+  "version": "0.0.1",
   "description": "Mixin authentication strategy for Passport.",
   "keywords": [
     "passport",
@@ -11,11 +11,14 @@
     "identity"
   ],
   "author": {
-    "name": "Leask Wong",
-    "email": "i@leaskh.com",
-    "url": "http://leaskh.com"
+    "name": "Lyric Wei",
+    "email": "5h3ll3x@gmail.com"
   },
   "contributors": [
+    {
+      "name": "Leask Wong",
+      "email": "i@leask.com"
+    },
     {
       "name": "Jared Hanson",
       "email": "jaredhanson@gmail.com"
@@ -27,10 +30,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/Leask/passport-mixin.git"
+    "url": "https://github.com/fox-one/passport-mixin.git"
   },
   "bugs": {
-    "url": "http://github.com/Leask/passport-mixin/issues"
+    "url": "https://github.com/fox-one/passport-mixin/issues"
   },
   "licenses": [
     {
